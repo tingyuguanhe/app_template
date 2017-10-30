@@ -1,4 +1,4 @@
-# mall_tpl
+# mall_template
 
 > this is a mall tempalte
 
